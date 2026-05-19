@@ -2,6 +2,8 @@
 
 Draw a polygon on a map, ask a question, get a cited answer — spatially filtered to that exact area. The retrieval pipeline combines PostGIS spatial filtering, pgvector cosine similarity, and PostgreSQL BM25 full-text ranking **in a single SQL query**, followed by cross-encoder reranking and LLM synthesis.
 
+![GeoLens Demo](demo.gif)
+
 ---
 
 ## Architecture
