@@ -1,0 +1,25 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+asyncpg==0.29.0
+pgvector==0.3.2
+openai==1.35.0
+python-multipart==0.0.9
+pypdf2==3.0.1
+tiktoken==0.7.0
+arq==0.25.0
+redis==5.0.7
+aiofiles==23.2.1
+numpy==1.26.4
+pydantic==2.7.4
+pydantic-settings==2.3.4
+httpx==0.27.0
+semantic-text-splitter>=0.14.0
+# OpenTelemetry
+opentelemetry-api==1.24.0
+opentelemetry-sdk==1.24.0
+opentelemetry-instrumentation-fastapi==0.45b0
+opentelemetry-exporter-otlp-proto-grpc==1.24.0
+# Reranker (cross-encoder) — comment out to skip; app degrades gracefully
+sentence-transformers==3.0.1
+torch==2.3.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu

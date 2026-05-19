@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What are the floor area ratio limits for commercial development in the Financial District?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-74.025, 40.695],
+        [-73.990, 40.695],
+        [-73.990, 40.720],
+        [-74.025, 40.720],
+        [-74.025, 40.695]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440001"]
+  },
+  {
+    "question": "What zoning rules apply to new residential towers in Midtown Manhattan?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-74.010, 40.740],
+        [-73.960, 40.740],
+        [-73.960, 40.770],
+        [-74.010, 40.770],
+        [-74.010, 40.740]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440002"]
+  },
+  {
+    "question": "What are the historic preservation requirements in Park Slope Brooklyn?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-74.000, 40.655],
+        [-73.960, 40.655],
+        [-73.960, 40.685],
+        [-74.000, 40.685],
+        [-74.000, 40.655]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440008"]
+  },
+  {
+    "question": "How does the Williamsburg waterfront rezoning affect industrial land use?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.970, 40.700],
+        [-73.920, 40.700],
+        [-73.920, 40.725],
+        [-73.970, 40.725],
+        [-73.970, 40.700]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440007"]
+  },
+  {
+    "question": "What affordable housing requirements apply to new development in East Harlem?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.960, 40.795],
+        [-73.920, 40.795],
+        [-73.920, 40.830],
+        [-73.960, 40.830],
+        [-73.960, 40.795]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440005"]
+  },
+  {
+    "question": "What are the building height limits near JFK Airport in Jamaica Queens?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.830, 40.680],
+        [-73.770, 40.680],
+        [-73.770, 40.720],
+        [-73.830, 40.720],
+        [-73.830, 40.680]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440013"]
+  },
+  {
+    "question": "What zoning applies to the South Bronx industrial waterfront area?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.940, 40.805],
+        [-73.900, 40.805],
+        [-73.900, 40.835],
+        [-73.940, 40.835],
+        [-73.940, 40.805]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440016"]
+  },
+  {
+    "question": "What are the coastal flood and resiliency requirements for Tottenville Staten Island?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-74.270, 40.495],
+        [-74.225, 40.495],
+        [-74.225, 40.530],
+        [-74.270, 40.530],
+        [-74.270, 40.495]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440023"]
+  },
+  {
+    "question": "What are the Mandatory Inclusionary Housing requirements in Long Island City Queens?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.960, 40.735],
+        [-73.920, 40.735],
+        [-73.920, 40.760],
+        [-73.960, 40.760],
+        [-73.960, 40.735]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440014"]
+  },
+  {
+    "question": "What slope and hillside protections govern residential development in Riverdale Bronx?",
+    "polygon_geojson": {
+      "type": "Polygon",
+      "coordinates": [[
+        [-73.930, 40.885],
+        [-73.895, 40.885],
+        [-73.895, 40.910],
+        [-73.930, 40.910],
+        [-73.930, 40.885]
+      ]]
+    },
+    "expected_chunk_ids": ["660e8400-e29b-41d4-a716-446655440018"]
+  }
+]

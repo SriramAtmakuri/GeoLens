@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Docker volumes
+db_data/
+
+# OS
+.DS_Store
+*.swp

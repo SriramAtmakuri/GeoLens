@@ -1,0 +1,456 @@
+{
+  "documents": [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440001",
+      "title": "NYC Zoning Resolution – Manhattan Commercial Districts",
+      "source": "nyc_zoning_manhattan_commercial.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440002",
+      "title": "NYC Zoning Resolution – Brooklyn Residential & Industrial",
+      "source": "nyc_zoning_brooklyn.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "NYC Zoning Resolution – Queens Mixed-Use Districts",
+      "source": "nyc_zoning_queens.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440004",
+      "title": "NYC Zoning Resolution – Bronx Special Districts",
+      "source": "nyc_zoning_bronx.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440005",
+      "title": "NYC Zoning Resolution – Staten Island Residential",
+      "source": "nyc_zoning_staten_island.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440006",
+      "title": "NYC Transit Infrastructure and TOD Guidelines",
+      "source": "nyc_transit_tod_guidelines.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440007",
+      "title": "NYC Building Permits and Construction Regulations",
+      "source": "nyc_building_permits_regulations.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440008",
+      "title": "NYC Parks and Open Space Regulations",
+      "source": "nyc_parks_open_space.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440009",
+      "title": "NYC School Zones and Educational Facility Siting",
+      "source": "nyc_school_zones_facilities.txt"
+    },
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440010",
+      "title": "NYC Affordable Housing Programs and Requirements",
+      "source": "nyc_affordable_housing_programs.txt"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440001",
+      "document_id": "550e8400-e29b-41d4-a716-446655440001",
+      "lat": 40.7074,
+      "lng": -74.0059,
+      "content": "Financial District C5-5 Commercial District Regulations: The Financial District is zoned C5-5, a high-density central commercial district that permits a maximum floor area ratio (FAR) of 15.0 for commercial uses and 10.0 for residential uses. Buildings in this district are not subject to height limits but must comply with sky exposure plane requirements. The district permits offices, retail, hotels, and residential towers. Mandatory ground-floor retail is required along designated streets including Broadway, Wall Street, and Fulton Street. Parking is not required for commercial uses. The Landmarks Preservation Commission oversees alterations to the 19th-century cast-iron building stock in the adjacent Tribeca West Historic District. Special provisions apply to buildings within the Special Lower Manhattan District, which require ground-floor transparency and prohibit blank facades along primary streets.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Financial District", "doc_type": "zoning_resolution", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440002",
+      "document_id": "550e8400-e29b-41d4-a716-446655440001",
+      "lat": 40.7549,
+      "lng": -73.9857,
+      "content": "Midtown C6-6 and C6-7 Commercial Districts: Midtown Manhattan contains some of the city's most permissive commercial zoning designations. The C6-6 district allows a maximum FAR of 15.0, while C6-7 permits FAR up to 15.0 with bonus provisions for public plazas and subway connections. The Special Midtown District overlay imposes additional requirements including mandatory ground-floor retail on designated Retail Continuity streets such as Fifth Avenue and 34th Street. New development must participate in the Inclusionary Housing Program when residential use is included. Tower-on-base forms are encouraged; podiums cannot exceed 85 feet in height, and tower footprints are limited to 30,000 square feet above 85 feet. The district also includes Theater Subdistrict controls that protect legitimate theaters on 42nd through 57th Streets.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Midtown", "doc_type": "zoning_resolution", "page": 3, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440003",
+      "document_id": "550e8400-e29b-41d4-a716-446655440001",
+      "lat": 40.7736,
+      "lng": -73.9588,
+      "content": "Upper East Side R8B and R10 Residential Districts: The Upper East Side is predominantly zoned R8B, a contextual residential district with a maximum FAR of 4.0 and a maximum building height of 75 feet. The R8B regulations require street walls to be between 60 and 75 feet on wide streets and 45 to 75 feet on narrow streets, preserving the neighborhood's prewar apartment building character. The Special Upper East Side District, established in 1999, restricts ground-floor commercial uses on residential side streets to prevent the loss of residential character. Park Avenue and Fifth Avenue parcels are subject to R10 zoning with an FAR of 10.0, reflecting their status as high-value corridors. The Upper East Side Historic District, a New York City landmark, encompasses approximately 1,100 buildings and requires Landmarks Preservation Commission approval for façade changes.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Upper East Side", "doc_type": "zoning_resolution", "page": 5, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440004",
+      "document_id": "550e8400-e29b-41d4-a716-446655440001",
+      "lat": 40.7831,
+      "lng": -73.9812,
+      "content": "Upper West Side R8 and R10A Residential Districts with West End Avenue Overlay: The Upper West Side contains a mix of R8 and R10A contextual residential zoning. R8 districts on side streets allow FAR up to 6.02 and building heights up to 85 feet with a 60-foot street wall minimum. R10A parcels along West End Avenue and Riverside Drive allow FAR up to 10.0 with mandatory setbacks above 85 feet. The Special Natural Area District designation applies to portions of Riverside Park, restricting development to protect the natural landscape. Broadway and Amsterdam Avenue are zoned C1-5 or C2-5 commercial overlays, permitting a range of neighborhood retail and personal service establishments. The Riverside-West End Historic District encompasses 19th-century rowhouses and apartment buildings, requiring LPC review of exterior alterations.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Upper West Side", "doc_type": "zoning_resolution", "page": 7, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440005",
+      "document_id": "550e8400-e29b-41d4-a716-446655440001",
+      "lat": 40.8116,
+      "lng": -73.9442,
+      "content": "Harlem Special District – East Harlem Rezoning 2017: The 2017 East Harlem Neighborhood Plan rezoned approximately 96 blocks to facilitate mixed-income housing development while protecting existing affordable housing stock. The rezoning established new R7A, R7D, and R8A contextual residential districts allowing higher density along East 125th Street corridor and Second Avenue. Mandatory Inclusionary Housing (MIH) applies to all new residential development over 10 units, requiring 20-30% of floor area to be permanently affordable at 40-80% of Area Median Income. The Special Enhanced Commercial District designation along 125th Street requires ground-floor retail with minimum ceiling heights of 14 feet and prohibits automotive uses. Building heights along 125th Street are capped at 120 feet with a continuous street wall requirement to maintain the avenue's commercial character.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "East Harlem", "doc_type": "zoning_resolution", "page": 9, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440006",
+      "document_id": "550e8400-e29b-41d4-a716-446655440002",
+      "lat": 40.6924,
+      "lng": -73.9896,
+      "content": "Downtown Brooklyn C6-2A and C6-4 Commercial Districts – MetroTech BID: Downtown Brooklyn's MetroTech Center occupies a mixed C6-2A and C6-4 commercial zone, with FAR up to 6.0 for contextual C6-2A and 10.0 for C6-4 parcels. The Special Downtown Brooklyn District, established in 2004, facilitated the conversion of office buildings to residential use and encouraged new mixed-use towers. Development bonuses of up to 20% additional FAR are available for affordable housing contributions under MIH Option 1 (25% at 60% AMI) or Option 2 (30% at 80% AMI). The Fulton Mall commercial corridor is undergoing streetscape upgrades funded by the Downtown Brooklyn Partnership. Height limits in the Atlantic Terminal Urban Renewal Area restrict development to 12 stories adjacent to Vanderbilt Avenue to protect residential context. New residential towers on Flatbush Avenue Extension may reach 500 feet subject to special permit approval.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Downtown Brooklyn", "doc_type": "zoning_resolution", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440007",
+      "document_id": "550e8400-e29b-41d4-a716-446655440002",
+      "lat": 40.7128,
+      "lng": -73.9442,
+      "content": "Williamsburg M1-2 Industrial-to-Residential Conversion and Special Mixed-Use District: South Williamsburg and Bushwick retain significant M1-2 light manufacturing zoning, with a maximum FAR of 2.0 for manufacturing uses and prohibitions on new residential development. The 2005 Williamsburg-Greenpoint Waterfront Rezoning created a Special Mixed-Use District (MX-8) along the East River waterfront, replacing M3-1 heavy industrial zoning with R6A and C2-4 residential and commercial designations. This rezoning permitted up to 8,000 new residential units with a mandatory 20% affordable housing set-aside under the Inclusionary Housing Program. The rezoning also required a 28-acre waterfront park now known as East River State Park and Bushwick Inlet Park. The Northside historic fabric of 19th-century loft buildings is protected under the North Brooklyn Industrial Business Zone, which restricts commercial retail conversions to preserve industrial employment.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Williamsburg", "doc_type": "zoning_resolution", "page": 3, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440008",
+      "document_id": "550e8400-e29b-41d4-a716-446655440002",
+      "lat": 40.6681,
+      "lng": -73.9772,
+      "content": "Park Slope R6B Contextual Residential District and Historic Preservation: Park Slope is predominantly zoned R6B, a low-FAR contextual residential district allowing a maximum FAR of 2.0 and buildings up to 50 feet in height. The R6B regulations require street wall continuity with buildings aligned to the property line from 40 to 50 feet, preserving the neighborhood's signature brownstone rowhouse streetscape. The Park Slope Historic District, designated in 1973 and expanded in 2012, encompasses approximately 1,400 buildings along Eighth Avenue and Ninth Street. The LPC requires approval for all exterior modifications including window replacement, storefront alterations, and new construction. Fifth Avenue retains a C2-3 commercial overlay permitting neighborhood retail. Prospect Park West is governed by a special street wall height cap of 65 feet to protect sightlines to Prospect Park.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Park Slope", "doc_type": "zoning_resolution", "page": 5, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440009",
+      "document_id": "550e8400-e29b-41d4-a716-446655440002",
+      "lat": 40.6348,
+      "lng": -74.0278,
+      "content": "Bay Ridge R4 and R4A Low-Density Residential District Regulations: Bay Ridge is characterized by R4 and R4A zoning, low-density residential districts allowing detached and semi-detached one- and two-family homes. R4 permits a maximum FAR of 0.9 for residential use with a maximum building height of 35 feet. R4A, the contextual equivalent, requires front yards of at least 10 feet and side yards on both sides of detached buildings. Third Avenue and Fifth Avenue in Bay Ridge are zoned C2-2 and C1-2 commercial overlays, permitting local retail, restaurants, and personal services. The 86th Street commercial corridor retains R4/C2-2 zoning with height limits of 35 feet to maintain the neighborhood's main street scale. Shore Road along the waterfront is zoned R3-2 with a park overlay preserving access to Shore Road Park and the Narrows.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Bay Ridge", "doc_type": "zoning_resolution", "page": 7, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440010",
+      "document_id": "550e8400-e29b-41d4-a716-446655440002",
+      "lat": 40.6396,
+      "lng": -73.9544,
+      "content": "Flatbush C8-1 Commercial and R6 Residential Zoning – Flatbush Avenue Corridor: The Flatbush Avenue corridor from Empire Boulevard to Avenue H is zoned C8-1, a commercial district permitting automotive uses, gas stations, and auto repair shops alongside retail. Maximum FAR is 2.0 with no residential uses permitted in C8-1. Side streets are predominantly R6 residential with a FAR of 3.0 for quality housing. The Flatbush Nostrand Junction has been identified for rezoning in the Department of City Planning's Flatbush Avenue Rezoning Study to transition from automotive to pedestrian-oriented commercial uses. The study proposes replacing C8-1 with C2-4 overlays over R7A residential zoning, potentially adding 2,000 affordable units. Church Avenue and Nostrand Avenue are C1-3 commercial corridors with height limits of 60 feet to transition from the elevated subway to residential context.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Flatbush", "doc_type": "zoning_resolution", "page": 9, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440011",
+      "document_id": "550e8400-e29b-41d4-a716-446655440003",
+      "lat": 40.7721,
+      "lng": -73.9301,
+      "content": "Astoria R5D and R6A Mixed Residential Districts with C2 Commercial Overlay: Astoria's residential fabric is governed by a mix of R5D and R6A contextual zoning. R5D permits a maximum FAR of 2.0 with buildings up to 40 feet, accommodating the neighborhood's prevalent three-story attached housing. R6A parcels along main corridors permit FAR up to 3.0 and buildings up to 70 feet. The C2-4 commercial overlay on Ditmars Boulevard, Steinway Street, and 31st Street permits neighborhood retail to a depth of 100 feet from the street. The Special Astoria Civic Center District protects the area around the Queens Courthouse with height limits and setback requirements. Halletts Point, a 2016 rezoning, converted former Con Edison industrial land to mixed-use residential with 2,400 units including 480 affordable, anchored by new waterfront public space along the East River.",
+      "metadata": { "borough": "Queens", "neighborhood": "Astoria", "doc_type": "zoning_resolution", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440012",
+      "document_id": "550e8400-e29b-41d4-a716-446655440003",
+      "lat": 40.7676,
+      "lng": -73.8333,
+      "content": "Flushing Special Downtown Flushing District and R7X High-Density Residential: The Special Downtown Flushing District, established in 2010, encompasses the area around Main Street and Roosevelt Avenue and permits a maximum FAR of 5.0 for residential use and 4.0 for commercial, with a bonus FAR of 6.5 available through the Inclusionary Housing Program. Building heights along Main Street may reach 175 feet subject to sky exposure plane compliance. The district requires ground-floor retail along designated streets to maintain Flushing's dense commercial character as one of the largest business districts in Queens. The Flushing Commons mixed-use development replaced a municipal parking lot with 600 market-rate and affordable residential units, 75,000 sq ft of retail, and a new public plaza. The USTA Billie Jean King National Tennis Center expansion required special permits under Section 74-681 for recreational facilities in commercial districts.",
+      "metadata": { "borough": "Queens", "neighborhood": "Flushing", "doc_type": "zoning_resolution", "page": 3, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440013",
+      "document_id": "550e8400-e29b-41d4-a716-446655440003",
+      "lat": 40.7000,
+      "lng": -73.7993,
+      "content": "Jamaica Downtown and JFK Airport Adjacent Development – C4-4 and M1-1 Zoning: Jamaica's downtown is zoned C4-4, a regional commercial district permitting an FAR of 3.4 for commercial and 3.44 for residential development. The Jamaica Plan (2007) rezoned 368 blocks to encourage transit-oriented development around the AirTrain and LIRR Jamaica station. The rezoning replaced low-density R3-2 and C2-2 zoning with R7A, R7X, and C4-4 designations allowing buildings up to 155 feet along Jamaica Avenue. South Jamaica retains M1-1 light industrial zoning along Rockaway Boulevard and Guy Brewer Boulevard, permitting warehousing, light assembly, and automotive uses. The JFK-adjacent industrial areas are zoned M1-1 with an Airport Overlay District restricting building heights to Federal Aviation Administration Part 77 obstruction limits, typically 50-75 feet above ground level.",
+      "metadata": { "borough": "Queens", "neighborhood": "Jamaica", "doc_type": "zoning_resolution", "page": 5, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440014",
+      "document_id": "550e8400-e29b-41d4-a716-446655440003",
+      "lat": 40.7484,
+      "lng": -73.9402,
+      "content": "Long Island City C6-1 and M1-4 Mixed-Use and Industrial Zoning: Long Island City straddles a boundary between C6-1 commercial zoning near the Queens Plaza transit hub and M1-4 light manufacturing zoning inland. The C6-1 district, with FAR 3.0 for commercial and 2.43 for residential, is targeted for upzoning through the Long Island City Core Rezoning Study to support the area's growing tech and media industry. M1-4 districts along Jackson Avenue permit office and commercial conversion of former industrial loft buildings but restrict new residential development. The Special Long Island City Mixed Use District overlay applied to Hunter's Point allows residential development in M1-4 zones subject to Mandatory Inclusionary Housing. Hunters Point South, a major affordable housing development, added 5,000 units with 60% affordable on formerly industrial waterfront land. The New York City Brownfield Cleanup Program has remediated multiple contaminated sites in the industrial core.",
+      "metadata": { "borough": "Queens", "neighborhood": "Long Island City", "doc_type": "zoning_resolution", "page": 7, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440015",
+      "document_id": "550e8400-e29b-41d4-a716-446655440003",
+      "lat": 40.7184,
+      "lng": -73.8496,
+      "content": "Forest Hills R3-2 and R4 Low-Density Residential District Regulations: Forest Hills is predominantly R3-2 and R4 zoning, reflecting its character as a garden apartment and single-family neighborhood. R3-2 permits a maximum FAR of 0.5 for detached single-family homes and requires lot coverage not to exceed 35%. Queens Boulevard through Forest Hills is zoned C4-2A, a regional commercial district capped at 55 feet in height to maintain the boulevard's human scale. The Forest Hills Gardens private planned community, developed in 1909, is governed by a homeowners association with deed restrictions supplementing zoning controls. Austin Street, the neighborhood's main retail strip, is zoned C1-2 with height limits of 35 feet. The LIRR Forest Hills Station area has been studied for transit-oriented development that would replace surface parking lots with mixed-use buildings under R6A zoning up to 70 feet.",
+      "metadata": { "borough": "Queens", "neighborhood": "Forest Hills", "doc_type": "zoning_resolution", "page": 9, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440016",
+      "document_id": "550e8400-e29b-41d4-a716-446655440004",
+      "lat": 40.8176,
+      "lng": -73.9200,
+      "content": "South Bronx M1-1 Industrial Business Zone and Mott Haven Waterfront Rezoning: The South Bronx retains extensive M1-1 light manufacturing zoning along Exterior Street, Bruckner Boulevard, and the Harlem River waterfront, designated as the South Bronx Industrial Business Zone (IBZ) to protect industrial employment. The IBZ restricts residential development to prevent displacement of industrial tenants. The Mott Haven-Port Morris Waterfront Special District, created in 2021, rezoned 11 blocks from M1-1 to R7D and C2-4, enabling approximately 1,500 new mixed-income residential units with 30% affordable. The rezoning includes a Mandatory Inclusionary Housing requirement and waterfront public access esplanade. Concerns about environmental justice led to a Fair Share analysis documenting the concentration of waste transfer stations and industrial uses in the South Bronx, which has among the highest asthma rates in the nation.",
+      "metadata": { "borough": "Bronx", "neighborhood": "South Bronx", "doc_type": "zoning_resolution", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440017",
+      "document_id": "550e8400-e29b-41d4-a716-446655440004",
+      "lat": 40.8579,
+      "lng": -73.8961,
+      "content": "Fordham C4-2 Regional Commercial District and Fordham University Campus Overlay: Fordham Road is zoned C4-2, a regional commercial district allowing FAR of 3.0 for commercial uses and 2.43 for residential in mixed-use buildings. The Grand Concourse, running north-south through Fordham, is subject to the Grand Concourse Special District, which protects the Art Deco apartment buildings along the boulevard from inappropriate alterations. Fordham University's Rose Hill campus is governed by an Institutional Special Permit (Special Permit 74-74) allowing academic facilities and dormitories at densities exceeding standard residential zoning. New buildings on campus require City Planning Commission review. Webster Avenue retains M1-1 industrial zoning south of Fordham Road, supporting wholesale food markets and distribution. The Bronx Terminal Market site adjacent to Yankee Stadium was rezoned C6-2A to permit a large-format retail center under a special permit.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Fordham", "doc_type": "zoning_resolution", "page": 3, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440018",
+      "document_id": "550e8400-e29b-41d4-a716-446655440004",
+      "lat": 40.8973,
+      "lng": -73.9128,
+      "content": "Riverdale R1-1 Low-Density Residential District – Estate Zoning and Hillside Protections: Riverdale in the northwest Bronx contains the city's most restrictive residential zoning: R1-1, which permits only single-family detached dwellings on lots of at least 9,500 square feet with a maximum FAR of 0.5. The Fieldston neighborhood within Riverdale is a private planned community governed by deed restrictions that limit development to single-family use. The Riverdale Historic District, designated in 2006, protects a collection of 19th and early-20th century estates and farmhouses. The Special Hillside Preservation District restricts development on slopes greater than 1:3 to prevent erosion and preserve natural topography. Wave Hill, a 28-acre public garden, is subject to park overlay zoning. The Riverdale Neighborhood Commercial Center on Johnson Avenue is zoned C1-2, permitting local retail with height limits of 35 feet consistent with the low-density residential context.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Riverdale", "doc_type": "zoning_resolution", "page": 5, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440019",
+      "document_id": "550e8400-e29b-41d4-a716-446655440004",
+      "lat": 40.8679,
+      "lng": -73.8125,
+      "content": "Pelham Bay R2 Residential District and City Island Maritime Zone: Pelham Bay Park's surrounding residential areas are zoned R2, permitting single-family and two-family detached homes with a maximum FAR of 0.5. City Island, accessible by bridge from Pelham Bay, is zoned R3-1 and C1-2, reflecting its small-scale residential character and maritime commercial tradition. The Special City Island District, established in 1975, limits building height to 35 feet and restricts commercial uses to maritime and waterfront-related businesses including boat yards, marinas, and seafood restaurants. New development on City Island requires a special permit from the City Planning Commission. The Pelham Bay area is subject to coastal flood zone regulations under Local Law 111, requiring new buildings in Zone A to be elevated above base flood elevation plus two feet of freeboard. The New York City Mayor's Office of Resiliency has identified Pelham Bay as a priority area for green infrastructure.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Pelham Bay", "doc_type": "zoning_resolution", "page": 7, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440020",
+      "document_id": "550e8400-e29b-41d4-a716-446655440004",
+      "lat": 40.8082,
+      "lng": -73.9281,
+      "content": "Mott Haven R6 Residential and C2-4 Commercial Mixed-Use Development Controls: Mott Haven's primary residential streets are zoned R6, permitting a FAR of 3.0 for quality housing development. The Third Avenue Bridge commercial corridor is zoned C4-2 to support regional retail serving South Bronx residents. The Mandatory Inclusionary Housing Program applies to all new residential development exceeding four units in MIH Designated Areas, which encompass most of Mott Haven below 149th Street. MIH Option 1 requires 25% of residential floor area at 60% AMI; MIH Option 2 requires 30% at 80% AMI. The East 138th Street Rezoning (2022) replaced R5 and M1-1 zoning with R7A, enabling mixed-income housing development near the Melrose Metro-North station. Affordable housing preservation tools including the NYC Acquisition Fund are actively deployed in Mott Haven to prevent displacement of low-income tenants in aging building stock.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Mott Haven", "doc_type": "zoning_resolution", "page": 9, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440021",
+      "document_id": "550e8400-e29b-41d4-a716-446655440005",
+      "lat": 40.6438,
+      "lng": -74.0776,
+      "content": "St. George Waterfront Special District and Bay Street Corridor Rezoning: The St. George area of Staten Island is subject to the Special St. George District, established to support the North Shore Waterfront Esplanade and catalyze transit-oriented development around the Staten Island Ferry terminal. The 2019 Bay Street Corridor Rezoning replaced M1-1 industrial zoning with R6A and C2-4 mixed-use designations, permitting up to 1,800 new housing units with 20% affordable under MIH. The rezoning includes a mandatory esplanade along the waterfront and requires active ground-floor uses fronting Bay Street. The Empire Outlets retail complex, opened in 2019 adjacent to the ferry terminal, required a special permit under the Special St. George District. Building heights in the core of St. George can reach 125 feet along Bay Street, transitioning to 65 feet adjacent to existing residential neighborhoods. Staten Island's primary commercial district has seen renewed investment following the ferry terminal renovation.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "St. George", "doc_type": "zoning_resolution", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440022",
+      "document_id": "550e8400-e29b-41d4-a716-446655440005",
+      "lat": 40.6273,
+      "lng": -74.0748,
+      "content": "Stapleton Waterfront Urban Renewal Area and R6 Mixed Residential Development: The Stapleton Waterfront Urban Renewal Area, designated in 1997, encompasses 35 acres of former US Navy homeport land along Richmond Terrace. The site is zoned R6 with a C2-4 commercial overlay permitting mixed-use development up to FAR 3.0 for residential and FAR 2.0 for commercial. The Stapleton Waterfront Development Plan calls for a mix of 900 residential units, a boutique hotel, waterfront retail, and a new public promenade. The NYC School Construction Authority plans a new elementary school within the development to serve projected population growth. The Bayview Correctional Facility site on Bay Street was acquired by the city and is being planned for a mixed-income housing development under the Stapleton Redevelopment Framework. The area is subject to coastal resiliency requirements following Hurricane Sandy flooding, including mandatory FEMA Base Flood Elevation plus two feet for all new construction.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "Stapleton", "doc_type": "zoning_resolution", "page": 3, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440023",
+      "document_id": "550e8400-e29b-41d4-a716-446655440005",
+      "lat": 40.5126,
+      "lng": -74.2483,
+      "content": "Tottenville R2 and R1-2 Low-Density Residential and Shorefront Regulations: Tottenville, at the southern tip of Staten Island, is the city's southernmost community and is predominantly zoned R1-2 and R2, permitting single-family detached homes with a maximum FAR of 0.5. The Conference House Park occupies the southern shoreline under park overlay zoning. Post-Hurricane Sandy, the NYC Build It Back program reconstructed or elevated over 300 flood-damaged homes in Tottenville under FEMA 50% Rule compliance requirements. The Resilient Edgewater/Tottenville project, a $400 million FEMA Hazard Mitigation Grant Program award, is constructing a living shoreline of oyster reefs, marsh restoration, and wave attenuating breakwaters along the Arthur Kill to reduce flood exposure for the 2,400 parcels in the flood zone. New construction in Tottenville must comply with NYC Zoning Appendix C tidal wetland buffer requirements and the State's Coastal Erosion Hazard Area regulations.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "Tottenville", "doc_type": "zoning_resolution", "page": 5, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440024",
+      "document_id": "550e8400-e29b-41d4-a716-446655440005",
+      "lat": 40.5541,
+      "lng": -74.1504,
+      "content": "Great Kills R3-1 Residential District and Fresh Kills Landfill Remediation Overlay: Great Kills is characterized by R3-1 zoning permitting semi-detached and attached single-family and two-family homes with a maximum FAR of 0.5 and a maximum building height of 35 feet. The Fresh Kills Landfill, formerly the world's largest sanitary landfill, is being transformed into Freshkills Park under a 30-year master plan. The park overlay zone restricts all development on the 2,200-acre former landfill site and requires methane extraction, leachate collection, and 30-year post-closure monitoring under NYSDEC Part 360 regulations. The adjacent residential streets of Great Kills are required to maintain minimum setbacks of 500 feet from active leachate collection infrastructure. Staten Island Bluebelt, a natural stormwater management system, channels runoff through natural wetlands and streams in the Great Kills watershed, qualifying for a 15% reduction in impervious surface requirements for new development under the NYC Green Infrastructure Program.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "Great Kills", "doc_type": "zoning_resolution", "page": 7, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440025",
+      "document_id": "550e8400-e29b-41d4-a716-446655440005",
+      "lat": 40.6357,
+      "lng": -74.0951,
+      "content": "New Brighton C1-2 Commercial Overlay and R4-1 Residential Context Controls: New Brighton on the North Shore of Staten Island is zoned primarily R4-1, a contextual residential district permitting detached and semi-detached one- and two-family homes with a maximum FAR of 0.9 and height limit of 35 feet. Broadway and Richmond Terrace through New Brighton are zoned C1-2, permitting neighborhood-scale retail and personal services with ground-floor commercial use and residential above. The Special North Shore District, proposed in the 2016 North Shore Land Use Study, would extend the Bay Street Corridor rezoning northward through New Brighton to Mariners Harbor, permitting mixed-use development along the waterfront edge. The North Shore Preservation Network has advocated for LPC designation of New Brighton's collection of Italianate and Federal-style rowhouses dating to the 1850s-1870s. The Staten Island Railway elevated structure through New Brighton is a potential landmark subject to a pending survey by the LPC.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "New Brighton", "doc_type": "zoning_resolution", "page": 9, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440026",
+      "document_id": "550e8400-e29b-41d4-a716-446655440006",
+      "lat": 40.7580,
+      "lng": -73.9855,
+      "content": "Hudson Yards Transit-Oriented Development and 7 Train Extension: The 2005 Hudson Yards Rezoning created the Special Hudson Yards District, which leveraged the 7 subway line extension from Times Square to 34th Street and 11th Avenue to catalyze 13 million square feet of new commercial and 12,000 residential units. The district applies a FAR of up to 33.0 for commercial development on the platform sites above the rail yards, achievable through the purchase of transferable development rights from the Public Place designation. Eastern Rail Yard towers may reach 985 feet subject to sky exposure plane compliance. The rezoning requires developers to contribute to a $2.1 billion public infrastructure fund covering the subway extension, new streets, parks, and schools. The High Line elevated park, running through the district, is maintained under a public-private partnership between NYC Parks and the Friends of the High Line. Mandatory ground-floor retail along 10th and 11th Avenues ensures active street edges.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Hudson Yards", "doc_type": "transit_tod", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440027",
+      "document_id": "550e8400-e29b-41d4-a716-446655440006",
+      "lat": 40.6501,
+      "lng": -73.9496,
+      "content": "East New York Rezoning – Transit-Oriented Affordable Housing at Livonia and Pitkin Avenues: The 2016 East New York Community Plan, the first completed under Mayor de Blasio's mandatory inclusionary housing framework, rezoned 190 blocks around the A, C, J, and Z subway lines to R6A, R7A, and C4-3 designations. The plan applies MIH Option 1 (25% at 60% AMI) citywide and a Deep Affordability Option (20% at 40% AMI) for sites within 400 feet of subway stations on Pitkin Avenue and Livonia Avenue. New mixed-use buildings along Atlantic Avenue may reach 75 feet, with towers up to 115 feet at the Conduit Boulevard intersection near the A/C Liberty Avenue station. The plan includes mandatory anti-displacement measures: a Community Preference policy allocating 50% of affordable units to existing Community Board 5 residents. Small business assistance through the East New York Business Improvement District is funded through the Empire State Development Corporation.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "East New York", "doc_type": "transit_tod", "page": 2, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440028",
+      "document_id": "550e8400-e29b-41d4-a716-446655440006",
+      "lat": 40.8036,
+      "lng": -73.9653,
+      "content": "145th Street Corridor Transit Hub and Harlem-Bronx Connection Rezoning: The 145th Street corridor connects the A/B/C/D subway station at St. Nicholas Avenue with the 3 train at Lenox Avenue, forming a major transit hub between Harlem and the Bronx. The NYC Department of City Planning's 2023 145th Street Corridor Study proposes replacing R7-2 and C4-2 zoning with R8A and C4-4 designations, allowing buildings up to 120 feet along the corridor. The proposed rezoning would enable approximately 3,500 new units with 35% affordable under MIH. Key sites include underutilized parking lots and one-story commercial buildings within 500 feet of the subway entrance. The study recommends a 20,000 sq ft community facility bonus FAR for developments providing health clinics or childcare facilities within the transit zone. Bus Rapid Transit improvements on the M10 and M2 crosstown routes are proposed to enhance surface transit connections.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Harlem", "doc_type": "transit_tod", "page": 3, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440029",
+      "document_id": "550e8400-e29b-41d4-a716-446655440006",
+      "lat": 40.7282,
+      "lng": -73.7949,
+      "content": "Queens Village LIRR Station Area Transit-Oriented Study and Parking Reform: Queens Village's LIRR station sits within R2 and R3-2 low-density residential zoning that currently prohibits the mixed-use development typical of transit-adjacent neighborhoods. The Jamaica Plan follow-up study proposes an R5D/C2-4 rezoning within 800 feet of the Jamaica-Queens Village LIRR stations, permitting three-story mixed-use buildings with ground-floor retail. Under the proposed zoning, parking requirements would be eliminated within 1,200 feet of the LIRR station to reduce construction costs and encourage walkability. The Queens Village Business Improvement District supports zoning changes to attract grocery stores and medical offices to replace vacant storefronts. The MTA's East Side Access project, opening in 2023, brings additional LIRR service to Grand Central Madison, increasing ridership through Queens Village by an estimated 20% and strengthening the case for transit-oriented upzoning.",
+      "metadata": { "borough": "Queens", "neighborhood": "Queens Village", "doc_type": "transit_tod", "page": 4, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440030",
+      "document_id": "550e8400-e29b-41d4-a716-446655440006",
+      "lat": 40.8681,
+      "lng": -73.8780,
+      "content": "Fordham Road BRT Corridor and Transit-Oriented Commercial Development: The Fordham Road Select Bus Service corridor carries over 50,000 daily riders on the Bx12 route, making it one of the MTA's busiest surface transit lines. The NYC DOT's Fordham Road Reconstruction Project, completed in 2022, added protected bus lanes, dedicated cycling lanes, and enhanced pedestrian plazas between the Grand Concourse and Webster Avenue. The accompanying zoning study proposes replacing M1-1 industrial uses along Webster Avenue with C4-3 commercial zoning and R7A residential overlays to support transit-oriented mixed-use development. Height limits along Webster Avenue would increase from 40 to 90 feet within 500 feet of SBS stops. The Bronx Overall Economic Development Corporation supports retail incubator space in new ground-floor commercial units. Affordable commercial rent stabilization under NYC Local Law 57 of 2019 would apply to small businesses in ground-floor commercial spaces in new MIH buildings.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Fordham", "doc_type": "transit_tod", "page": 5, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440031",
+      "document_id": "550e8400-e29b-41d4-a716-446655440007",
+      "lat": 40.7128,
+      "lng": -74.0134,
+      "content": "Lower Manhattan DOB Building Permits – High-Rise Construction Requirements: Buildings exceeding 125 feet in height in Lower Manhattan require a Special Inspection Program under NYC Building Code Section 1705, including periodic inspections for structural concrete, high-strength bolts, and spray-applied fire-resistant materials. The NYC Department of Buildings requires a Construction Superintendent certification for all new high-rise construction under Local Law 196 of 2017 site safety training requirements. Excavation permits for sites adjacent to the PATH train infrastructure must be filed with both the DOB and the Port Authority of New York and New Jersey under Technical Policy and Procedure Notice 10/88. Deep foundation permits for bedrock caisson installations must include geotechnical reports stamped by a licensed New York State Professional Engineer. The DOB's Construction Safety Division conducts mandatory inspections at grade, structural frame, mechanical rough-in, and final stages. Post-construction, the First Amended Facade Inspection Safety Program (FISP) requires exterior facade inspections every five years for buildings over six stories.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Financial District", "doc_type": "building_permits", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440032",
+      "document_id": "550e8400-e29b-41d4-a716-446655440007",
+      "lat": 40.6782,
+      "lng": -73.9442,
+      "content": "Brooklyn DOB Permit Requirements for Residential Alterations and Additions: In Brooklyn, alterations to one- and two-family dwellings (Alteration Type 3) can be self-certified by licensed architects or engineers under the NYC Professional Certification Program, eliminating the need for pre-filing DOB plan examination. Additions exceeding 25% of existing floor area or structural alterations require full plan examination review. Local Law 11 of 1998 requires all owners of buildings over six stories to file facade inspection reports (FISP) with the DOB every five years; critical unsafe conditions must be corrected within 90 days. Work permits for landmark buildings require LPC approval prior to DOB filing. The NYC Construction Codes mandate that all new residential construction meet the 2022 NYC Energy Conservation Code, which requires a minimum air leakage rate of 0.4 CFM50 per square foot of enclosure area. DOB NOW: Build is the online portal for permit applications, inspection scheduling, and compliance tracking for all Brooklyn construction projects.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Crown Heights", "doc_type": "building_permits", "page": 2, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440033",
+      "document_id": "550e8400-e29b-41d4-a716-446655440007",
+      "lat": 40.7580,
+      "lng": -73.8855,
+      "content": "Queens DOB Special Permits and Variances for Non-Conforming Lots: Queens has the highest number of non-conforming lots in NYC, owing to the borough's patchwork development history. DOB permits for construction on lots that do not conform to current zoning (e.g., pre-existing undersized lots) require a Certificate of Occupancy Review to document legal pre-existing non-conforming status. Variances from bulk or use regulations require Board of Standards and Appeals (BSA) approval under NYC Zoning Resolution Section 72-21, based on a five-part test demonstrating unique physical conditions, absence of self-created hardship, and no adverse impact on neighboring properties or the general zoning plan. The average BSA variance processing time is 18-24 months. In flood zones, DOB permits for substantial improvement (cost exceeding 50% of pre-improvement market value) require FEMA-compliant elevation certificates and may trigger full code compliance upgrades. Queens Community Boards 5 and 7 receive the highest volume of BSA variance applications in the borough.",
+      "metadata": { "borough": "Queens", "neighborhood": "Jackson Heights", "doc_type": "building_permits", "page": 3, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440034",
+      "document_id": "550e8400-e29b-41d4-a716-446655440007",
+      "lat": 40.8448,
+      "lng": -73.8648,
+      "content": "Bronx DOB Demolition Permits and Environmental Review Requirements: Demolition permits in the Bronx for buildings containing more than 260 linear feet of friable asbestos-containing materials require a NYC DEP Asbestos Abatement Permit prior to DOB demolition permit issuance. Lead paint abatement is required in pre-1960 buildings when disturbing more than two square feet of lead-based paint, under NYC Local Law 66 of 2019. The NYC Office of Environmental Remediation requires a Phase I Environmental Site Assessment for any development on land that was formerly used for commercial or industrial purposes. The Bronx has significant brownfield sites requiring Phase II investigations and Remedial Action Plans before DOB permits will be issued. The NYC Brownfield Cleanup Program offers a 22% tax credit against remediation costs for applicants who complete the program. DOB demolition permits in Community District 1 (South Bronx) require notification to the NYC Environmental Control Board 14 days before commencement of any demolition affecting street infrastructure.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Hunts Point", "doc_type": "building_permits", "page": 4, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440035",
+      "document_id": "550e8400-e29b-41d4-a716-446655440007",
+      "lat": 40.6230,
+      "lng": -74.0766,
+      "content": "Staten Island DOB Flood Zone Permits and Coastal Construction Requirements: Staten Island has the largest share of NYC properties in FEMA Special Flood Hazard Areas (Zone AE and Zone VE), with over 22,000 properties in the post-Sandy updated Flood Insurance Rate Maps. All new construction and substantial improvements in Zone AE must be elevated to the Base Flood Elevation (BFE) plus two feet of freeboard under NYC Zoning Appendix C. Zone VE coastal high-hazard areas require open-pile foundations capable of withstanding wave action, and enclosures below the BFE must use breakaway walls. The NYC DOB requires an Elevation Certificate (FEMA Form 086-0-33) completed by a licensed surveyor for all flood zone construction. The NYC Build It Back program, launched after Hurricane Sandy, assisted 4,000+ Staten Island homeowners with elevation and reconstruction; elevated homes must obtain a new Certificate of Occupancy documenting flood compliance. The NYC Rapid Repair program provides emergency DOB permits for utility restoration within 30 days of a federally declared disaster.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "Oakwood", "doc_type": "building_permits", "page": 5, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440036",
+      "document_id": "550e8400-e29b-41d4-a716-446655440008",
+      "lat": 40.7823,
+      "lng": -73.9654,
+      "content": "Central Park Special Natural Area District and Park Rules: Central Park is designated as a Special Natural Area District (SNAD) under the NYC Zoning Resolution, prohibiting all new development within the 843-acre park except for reconstruction of existing facilities approved by NYC Parks. The Landmarks Preservation Commission has designated Central Park as an individual scenic landmark, requiring LPC approval for any physical changes to the park's landscape, structures, or site features including the Ramble, Bethesda Terrace, and Sheep Meadow. The Central Park Conservancy manages the park under a contract with NYC Parks and enforces park rules including restrictions on amplified sound, commercial photography permits ($300-$2,400 per day), event permits for gatherings over 20 people, and prohibitions on off-path cycling. The park's underground infrastructure—including a steam distribution system, electrical conduits, and stormwater drains—is managed by a joint authority of NYC Parks and Con Edison. Great Lawn restoration standards limit use to 150 days per year to allow turf recovery.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Central Park", "doc_type": "parks_open_space", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440037",
+      "document_id": "550e8400-e29b-41d4-a716-446655440008",
+      "lat": 40.6579,
+      "lng": -73.9692,
+      "content": "Prospect Park Special Natural Area District and Brooklyn's Open Space Network: Prospect Park, designed by Frederick Law Olmsted and Calvert Vaux and completed in 1873, is governed by the Special Prospect Park District under the NYC Zoning Resolution. The district prohibits commercial development within the 526-acre park and requires a special permit from the City Planning Commission for any new structures exceeding 100 square feet. The Prospect Park Alliance manages the park under an agreement with NYC Parks and enforces the park's Natural Areas program, which has restored 200 acres of forest understory using native plant species. The Long Meadow is the longest open meadow in any NYC park at 90 acres, and is closed to vehicles 24 hours a day. The Litchfield Villa, a City of New York landmark within the park, houses Park headquarters and is not available for private events. Park enforcement of the Brooklyn Greenway, a 26-mile off-street cycling route, is managed jointly with the NYC DOT and requires a biennial inspection of the pathway surface and lighting.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Prospect Park", "doc_type": "parks_open_space", "page": 2, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440038",
+      "document_id": "550e8400-e29b-41d4-a716-446655440008",
+      "lat": 40.7394,
+      "lng": -73.8451,
+      "content": "Flushing Meadows-Corona Park and Queens Open Space Regulations: Flushing Meadows-Corona Park, at 1,255 acres the largest park in Queens and second-largest in NYC, is managed by NYC Parks under a special act of the New York State Legislature. The park is not subject to standard NYC zoning and requires State legislative approval for any permanent alienation or development of parkland. Major facilities including Citi Field, USTA Billie Jean King National Tennis Center, and the New York Hall of Science operate under long-term license agreements requiring periodic environmental review under SEQRA. The park's Willow Lake and Meadow Lake are designated as NYC Wetlands under Local Law 5 of 2021, prohibiting any filling or alteration of the wetland buffers within 100 feet of the water's edge. The Queens Museum is expanding under a master plan approved by NYC Parks requiring a Section 106 review for impact on the 1964 World's Fair Unisphere, a City of New York landmark. All vendors and food concessions in the park require a NYC Parks concession license agreement renewed annually.",
+      "metadata": { "borough": "Queens", "neighborhood": "Flushing Meadows", "doc_type": "parks_open_space", "page": 3, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440039",
+      "document_id": "550e8400-e29b-41d4-a716-446655440008",
+      "lat": 40.8499,
+      "lng": -73.9196,
+      "content": "Pelham Bay Park and Bronx Green Space Regulations: Pelham Bay Park, at 2,772 acres the largest park in NYC, contains the Hunter Island Marine Zoology and Geology Sanctuary, a registered National Natural Landmark. NYC Parks maintains a no-development buffer of 300 feet from the shoreline throughout the park. The park's forest area is managed under the NYC Parks Forest Management Framework, which prescribes selective tree removal and replanting cycles to address storm-damaged, diseased, and invasive trees. The Bartow-Pell Mansion Museum, a City of New York landmark within the park, operates under a licensed agreement with the International Garden Club. Orchard Beach, the park's public beach, has a seasonal lifeguard program from June 15 to September 15 and a bathing permit requirement for groups over 50 people. The Pelham Bay Park Forest Restoration project, funded by the NYC Department of Environmental Protection, is planting 15,000 native trees and shrubs to reduce stormwater runoff into Long Island Sound.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Pelham Bay", "doc_type": "parks_open_space", "page": 4, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440040",
+      "document_id": "550e8400-e29b-41d4-a716-446655440008",
+      "lat": 40.5730,
+      "lng": -74.1451,
+      "content": "Staten Island Greenbelt and Bluebelt Stormwater Management Regulations: The Staten Island Greenbelt, a 3,000-acre contiguous forest preserve managed by NYC Parks, is subject to Special Natural Area District zoning prohibiting all development within its boundaries. The Greenbelt's forested ridgeline serves as the primary watershed divide between the North Shore and South Shore drainage basins. The NYC Bluebelt program, unique to Staten Island, manages 25 separate drainage basins using natural wetlands, ponds, and streams to convey stormwater, avoiding the cost of over 60 miles of conventional sewer infrastructure. New development within 300 feet of a Bluebelt drainage feature must submit a Stormwater Pollution Prevention Plan (SWPPP) to the NYC DEP. The Greenbelt Natural Area Inventory, updated in 2019, identifies 62 rare plant species and 11 rare animal species requiring habitat protection under the NYC Endangered Species Act. Volunteers maintaining Greenbelt trails must register with NYC Parks under the Volunteer Stewardship Program.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "Greenbelt", "doc_type": "parks_open_space", "page": 5, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440041",
+      "document_id": "550e8400-e29b-41d4-a716-446655440009",
+      "lat": 40.7614,
+      "lng": -73.9776,
+      "content": "Midtown Manhattan School Siting Constraints and Educational Facility Requirements: The NYC School Construction Authority (SCA) faces acute siting challenges in Midtown Manhattan due to high land costs and the scarcity of available sites. The SCA's Site Selection Process requires environmental review under SEQRA, community outreach through Community Education Councils, and DOE approval before acquiring any site. New schools in C5 and C6 commercial districts require a City Planning Commission special permit under ZR Section 74-72, which imposes restrictions on hours of operation and pupil loading. The SCA's Interim Assessment Program ensures temporary facilities at PS 212 Midtown West while permanent school capacity is developed through inclusionary agreements requiring private developers to contribute school space. NYC Zoning Resolution Section 11-13 allows community facility uses (including schools) in all zoning districts, with an FAR bonus of up to 6.5 in R5 through R10 districts for providing community facilities accessible to the public. The SCA's Master Plan for School Facilities designates Midtown as a Priority Zone for new elementary school seats to address projected enrollment growth from residential development.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "Midtown", "doc_type": "school_zones", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440042",
+      "document_id": "550e8400-e29b-41d4-a716-446655440009",
+      "lat": 40.6892,
+      "lng": -73.9907,
+      "content": "Brooklyn School Zone Boundaries and Enrollment Management: The NYC Department of Education manages school zone (catchment area) boundaries for all Brooklyn elementary schools through the Community District Superintendent and Community Education Councils. Boundary changes require a public review process with 30-day notice, two public hearings, and final approval by the Chancellor. The Boerum Hill/Carroll Gardens/Red Hook (CSD 15) zone redistricting in 2021 merged zones from PS 58, PS 29, and PS 261 to reduce racial and socioeconomic segregation, affecting enrollment patterns for approximately 1,800 students. The DOE's Capital Plan Cycle 2024-2028 allocates $4.5 billion for Brooklyn school infrastructure, including a new 640-seat elementary school in the Gowanus rezoning area (Block 468). The NYC SCA's Utilization Study identifies 12 Brooklyn elementary schools operating above 100% capacity, triggering priority status for capital investment. Brooklyn's school zone maps are publicly available through the NYC Open Data portal and updated annually.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Boerum Hill", "doc_type": "school_zones", "page": 2, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440043",
+      "document_id": "550e8400-e29b-41d4-a716-446655440009",
+      "lat": 40.7430,
+      "lng": -73.9249,
+      "content": "Queens School Facilities and Impact Fees from Development: Queens Community School District 24 (Ridgewood, Maspeth, Glendale) is the most overcrowded district in NYC, with average building utilization of 127%. The SCA has identified the former Maspeth industrial corridor along Grand Avenue for a new 800-seat K-8 school, requiring rezoning from M1-1 to an institutional use category under ZR Section 22-15. The NYC Department of City Planning's land use approval process requires applicants for large-scale residential developments in Queens to submit an Educational Facilities Impact Assessment quantifying projected school enrollment from new residents. Developments yielding more than 50 residential units in CSD 24, 25, and 26 are subject to negotiated contributions to the SCA Capital Fund. The NYCDOE's Diversity in Admissions program for District 25 (Flushing) applies an income-based admissions preference reserving 40% of kindergarten seats for students from households below 185% of the federal poverty level. The Queens High School for Language Studies serves as the borough's primary English Language Learner entry point.",
+      "metadata": { "borough": "Queens", "neighborhood": "Ridgewood", "doc_type": "school_zones", "page": 3, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440044",
+      "document_id": "550e8400-e29b-41d4-a716-446655440009",
+      "lat": 40.8302,
+      "lng": -73.8860,
+      "content": "Bronx School Zones, Environmental Health, and Asthma Corridor Protections: The Bronx has the highest rates of pediatric asthma in the United States, with Community Districts 1, 2, and 3 (South Bronx) recording emergency department visit rates over 400 per 10,000 children. The NYC DEP's Asthma-Free Schools Initiative requires all schools in the South Bronx to undergo indoor air quality assessments and install HEPA filtration in HVAC systems by 2025. New school construction within 500 feet of a bus depot or waste transfer station requires a Special Asthma Impact Assessment and enhanced ventilation design under DOE Executive Circular 2023-04. The Bronx's CSD 7 (Mott Haven, Port Morris) Rezoning Study proposes a new District 75 (special education) school facility within the Mott Haven-Port Morris Waterfront Special District to serve the 300 D75 students currently bused out of the community district. The NYC SCA's Greener Schools program has installed solar panels, cool roofs, and rainwater harvesting systems in 47 Bronx schools, reducing energy costs by 22% and improving stormwater management.",
+      "metadata": { "borough": "Bronx", "neighborhood": "Mott Haven", "doc_type": "school_zones", "page": 4, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440045",
+      "document_id": "550e8400-e29b-41d4-a716-446655440009",
+      "lat": 40.6368,
+      "lng": -74.0962,
+      "content": "Staten Island School Capacity and North Shore Educational Planning: Staten Island's North Shore communities (St. George, Stapleton, New Brighton, Mariners Harbor) are experiencing rapid enrollment growth driven by new mixed-income housing developments associated with the Bay Street Corridor Rezoning and Stapleton Waterfront projects. The SCA projects a need for 1,200 new elementary school seats in CSD 31 by 2028, requiring construction of at least two new schools. The Bay Street Corridor ULURP approval included a Restrictive Declaration requiring the developer to provide 12,000 sq ft of community facility space on the ground floor of the residential building at Bay Street and Victory Boulevard, designed to DOE specifications for a childcare center. The Staten Island Ferry Headhouse adjacent to the St. George development site is being evaluated for adaptive reuse as a pre-K center under the NYC Universal Pre-Kindergarten program. Staten Island has 31 Title I schools receiving federal funding for low-income student support; the largest concentration is in CSD 31's North Shore Zone.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "St. George", "doc_type": "school_zones", "page": 5, "chunk_index": 4 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440046",
+      "document_id": "550e8400-e29b-41d4-a716-446655440010",
+      "lat": 40.7306,
+      "lng": -73.9573,
+      "content": "Mandatory Inclusionary Housing in Williamsburg and Greenpoint Rezoning Areas: The 2005 Williamsburg-Greenpoint Waterfront Rezoning was the first major rezoning to apply the NYC Inclusionary Housing Program on a mandatory basis within the Special Mixed-Use District (MX-8). Developers receiving the R6A/C2-4 maximum FAR are required to provide 20% of residential floor area as permanently affordable housing at 80% of Area Median Income (AMI). Since 2016, the Mandatory Inclusionary Housing (MIH) program replaced the voluntary system citywide with binding requirements tied to land use approvals. In the North Brooklyn waterfront area, MIH Option 1 (25% at 60% AMI) or Option 2 (30% at 80% AMI) applies to all residential developments requiring ULURP. The NYC Department of Housing Preservation and Development (HPD) monitors MIH compliance through 30-year regulatory agreements recorded against each property. The Williamsburg Mixed-Use District has produced approximately 4,200 affordable units since 2005, representing 23% of the 18,000 total units developed.",
+      "metadata": { "borough": "Brooklyn", "neighborhood": "Williamsburg", "doc_type": "affordable_housing", "page": 1, "chunk_index": 0 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440047",
+      "document_id": "550e8400-e29b-41d4-a716-446655440010",
+      "lat": 40.7971,
+      "lng": -73.9396,
+      "content": "NYC Housing Preservation and Development – Affordable Housing Lottery and Eligibility Requirements: The NYC HPD administers the affordable housing lottery for all income-restricted units created through the MIH, 421-a, and other subsidy programs through NYC Housing Connect. Applicants must meet income eligibility thresholds ranging from 30% AMI (extremely low income) to 165% AMI (middle income) depending on the building's funding program. The 2023 Area Median Income (AMI) for NYC is $127,100 for a family of four. NYC Housing Connect prioritizes applicants with mobility or vision/hearing impairments for ADA-accessible units (5% of units in all subsidized buildings) and applicants with HIV/AIDS for units in buildings with HPD's set-aside programs. Community Preference allocates 50% of affordable units to applicants from the same community board district as the building, subject to HUD Fair Housing review. The average NYC affordable housing lottery receives 80,000-200,000 applications per available unit, reflecting the severe shortage of affordable housing. HPD's Housing Preservation program allocates $2.8 billion over five years for preservation loans to existing affordable buildings.",
+      "metadata": { "borough": "Manhattan", "neighborhood": "East Harlem", "doc_type": "affordable_housing", "page": 2, "chunk_index": 1 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440048",
+      "document_id": "550e8400-e29b-41d4-a716-446655440010",
+      "lat": 40.6898,
+      "lng": -73.8694,
+      "content": "421-a Tax Exemption and Affordable Housing Production in Southeast Queens: The 421-a tax exemption program, renewed as Affordable New York through 2022 and currently pending re-authorization, exempts new residential construction from property tax increases for 35 years in exchange for affordable housing set-asides. In Geographic Exclusion Areas (primarily Manhattan and parts of Brooklyn and Queens), developers must provide 25-30% affordable units at 60-80% AMI to qualify. In the Non-Exclusion Areas including Southeast Queens neighborhoods such as Jamaica, St. Albans, and Hollis, the 421-a benefit does not require affordable housing but does require prevailing wage for construction workers on projects over 300 units. The NYC Council's proposed 485-x program (successor to 421-a) would extend the exemption period to 40 years citywide in exchange for enhanced affordability requirements of 25% at 40% AMI in Manhattan and 25% at 60% AMI elsewhere. The expiration of 421-a in June 2022 has been linked by industry analysts to a 47% decline in new affordable housing construction permit filings in Queens.",
+      "metadata": { "borough": "Queens", "neighborhood": "Jamaica", "doc_type": "affordable_housing", "page": 3, "chunk_index": 2 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440049",
+      "document_id": "550e8400-e29b-41d4-a716-446655440010",
+      "lat": 40.8384,
+      "lng": -73.9040,
+      "content": "Bronx Affordable Housing Preservation and Anti-Displacement Programs: The Bronx has the highest percentage of rent-stabilized housing stock in NYC, with approximately 70% of rental units subject to Rent Guidelines Board regulations. The NYC HPD's Neighborhood Pillars program provides below-market-rate loans to non-profit affordable housing developers to acquire and preserve unsubsidized naturally occurring affordable housing (NOAH) in the Bronx before it is converted to market-rate. The South Bronx Community Land Trust, formed in 2019, has acquired 12 buildings with 340 units through the NYC Community Land Trust Program, removing them permanently from speculative market cycles. The Bronx Pilot Anti-Harassment program, authorized under Local Law 79 of 2022, requires owners of buildings with three or more harassment complaints in a five-year period to obtain a Certificate of No Harassment before DOB will issue alteration permits. The NYC Right to Counsel program, funded at $155 million annually, provides free legal representation to low-income tenants facing eviction in Housing Court; the Bronx has the highest eviction filing rates in the city.",
+      "metadata": { "borough": "Bronx", "neighborhood": "South Bronx", "doc_type": "affordable_housing", "page": 4, "chunk_index": 3 }
+    },
+    {
+      "id": "660e8400-e29b-41d4-a716-446655440050",
+      "document_id": "550e8400-e29b-41d4-a716-446655440010",
+      "lat": 40.6112,
+      "lng": -74.0669,
+      "content": "Staten Island Affordable Housing Production and NYCHA Developments: Staten Island has the lowest production of affordable housing relative to need of any NYC borough, with HPD financing fewer than 200 affordable units annually compared to Brooklyn's 3,000+. The NYCHA (New York City Housing Authority) manages eight public housing developments on Staten Island, including Stapleton Houses (693 units), Richmond Terrace Houses (195 units), and West Brighton Houses (786 units), totaling approximately 2,800 units serving over 6,000 residents. The NYCHA Permanent Affordability Commitment Together (PACT) program is converting West Brighton Houses to Section 8 Project-Based Vouchers with full renovation, transferring day-to-day management to a private non-profit while NYCHA retains ownership. Staten Island's Community Land Trust, established in 2021, is pursuing acquisition of vacant lots in flood-prone areas for limited equity cooperative housing elevated above FEMA base flood elevation. The NYC Open Homes program provides emergency housing placement for displaced Staten Island residents through partnerships with the American Red Cross following storm events.",
+      "metadata": { "borough": "Staten Island", "neighborhood": "West Brighton", "doc_type": "affordable_housing", "page": 5, "chunk_index": 4 }
+    }
+  ]
+}

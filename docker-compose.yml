@@ -1,0 +1,95 @@
+version: '3.9'
+
+services:
+  db:
+    build: ./db
+    environment:
+      POSTGRES_DB: geolens
+      POSTGRES_USER: geolens
+      POSTGRES_PASSWORD: geolens
+    volumes:
+      - db_data:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5433:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U geolens -d geolens"]
+      interval: 5s
+      timeout: 5s
+      retries: 15
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+
+  backend:
+    build: ./backend
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql://geolens:geolens@db:5432/geolens
+      REDIS_URL: redis://redis:6379
+      JAEGER_ENDPOINT: http://jaeger:4317
+    volumes:
+      - ./backend:/app
+      - ./sample_data:/sample_data:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  worker:
+    build: ./backend
+    command: arq workers.run.WorkerSettings
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql://geolens:geolens@db:5432/geolens
+      REDIS_URL: redis://redis:6379
+      JAEGER_ENDPOINT: http://jaeger:4317
+    volumes:
+      - ./backend:/app
+      - ./sample_data:/sample_data:ro
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  frontend:
+    build: ./frontend
+    env_file:
+      - .env
+    environment:
+      VITE_API_URL: http://localhost:8000
+      # Used by Vite dev-server proxy (container-internal), not the browser
+      API_PROXY_TARGET: http://backend:8000
+    volumes:
+      - ./frontend/src:/app/src
+      - ./frontend/public:/app/public
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  jaeger:
+    image: jaegertracing/all-in-one:1.57
+    environment:
+      COLLECTOR_OTLP_ENABLED: "true"
+    ports:
+      - "16686:16686"
+      - "4317:4317"
+      - "4318:4318"
+
+volumes:
+  db_data:
